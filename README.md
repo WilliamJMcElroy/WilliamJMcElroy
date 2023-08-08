@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamJMcElroy
 - 👀 I’m interested in hiking/backpacking
-- 🌱 I’m currently learning Bash via FreeCodeCamp
+- 🌱 I’m currently learning through BoiseCodeWorks, a full-stack 13wk course
 - 💞️ I’m looking to collaborate on anything, looking to branch out into this industry
 - 📫 How to reach me ...
 william.j.mcelroy.wm@gmail.com, email for phone number
